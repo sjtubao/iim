@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Institute of Intelligent Manufacturing
 
-You can use the [editor on GitHub](https://github.com/sjtubao/iim.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Our official site [IIM @DHU](http://meccol.dhu.edu.cn/c9/89/c9001a182665/page.htm) .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+
+### Faculty
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
